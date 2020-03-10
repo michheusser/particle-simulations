@@ -1,0 +1,21 @@
+#include <math.h>
+#include <algorithm>
+
+using namespace std;
+
+#include "Particle.h"
+
+//constructor, initialize all attributes to zero
+Particle::Particle(): x(0), y(0), u(0), v(0), omega(0)
+{
+}
+
+//given the particles attributes, compute r,g and b
+//note that r,g,b must be in [0,1]
+void Particle::ComputeColor(double& r, double& g, double& b) const
+{
+    r = g = b = 1.;
+    
+	//INSERT HERE: Compute r, g and b as a function of the particle's attributes
+    //STOP HERE
+}
