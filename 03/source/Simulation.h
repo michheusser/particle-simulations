@@ -1,12 +1,3 @@
-/*
- *  Simulation.h
- *  Exercise 3
- *
- *  Created by Florian Milde on 3/16/11.
- *  Copyright 2011 ETH Zurich. All rights reserved.
- *
- */
-
 #pragma once
 
 #include <vector>

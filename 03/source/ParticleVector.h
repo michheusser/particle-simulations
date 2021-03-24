@@ -1,12 +1,3 @@
-/*
- *  ParticleVector.h
- *  Exercise 3
- *
- *  Created by Diego Rossinelli on 3/15/10.
- *  Copyright 2010 ETH Zurich. All rights reserved.
- *
- */
-
 #pragma once
 
 #include <math.h>

@@ -1,12 +1,3 @@
-/*
- *  screenshot.cpp
- *  VisualizeParticle
- *
- *  Created by Diego Rossinelli on 3/1/11.
- *  Copyright 2011 ETH Zurich. All rights reserved.
- *
- */
-
 #include "screenshot.h"
 
 #ifdef _WIN32

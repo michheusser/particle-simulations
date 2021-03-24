@@ -1,12 +1,3 @@
-/*
- *  Processing_Electrostatics.h
- *  Exercise 8
- *
- *  Created by Diego Rossinelli on 4/26/11.
- *  Copyright 2010 ETH Zurich. All rights reserved.
- *
- */
-
 #include "Grid.h"
 #include "PoissonSolverFFT.h"
 #include "FieldViewer.h"

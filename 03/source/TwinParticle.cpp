@@ -1,12 +1,3 @@
-/*
- *  TwinParticle.cpp
- *  Exercise 3
- *
- *  Created by Diego Rossinelli on 3/17/11.
- *  Copyright 2011 ETH Zurich. All rights reserved.
- *
- */
-
 #include <math.h>
 
 #include "TwinParticle.h"

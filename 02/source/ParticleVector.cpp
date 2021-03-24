@@ -1,12 +1,3 @@
-/*
- *  ParticleVector.cpp
- *  Exercise 2
- *
- *  Created by Diego Rossinelli on 3/1/11.
- *  Copyright 2011 ETH Zurich. All rights reserved.
- *
- */
-
 #include <assert.h>
 #include <fstream>
 #include <string.h>

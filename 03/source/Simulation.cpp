@@ -1,12 +1,3 @@
-/*
- *  Simulation.cpp
- *  Exercise 3
- *
- *  Created by Florian Milde on 3/16/11.
- *  Copyright 2011 ETH Zurich. All rights reserved.
- *
- */
-
 #include <iostream>
 #include <fstream>
 #include <iomanip>

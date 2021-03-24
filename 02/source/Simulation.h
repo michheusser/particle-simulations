@@ -1,12 +1,3 @@
-/*
- *  Simulation.h
- *  Exercise 2
- *
- *  Created by Diego Rossinelli on 3/1/11.
- *  Copyright 2011 ETH Zurich. All rights reserved.
- *
- */
-
 #pragma once
 
 #include <string>

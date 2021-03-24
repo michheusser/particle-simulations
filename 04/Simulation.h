@@ -1,12 +1,3 @@
-/*
- *  Simulation.h
- *  Exercise 8
- *
- *  Created by Diego Rossinelli on 3/28/11.
- *  Copyright 2010 ETH Zurich. All rights reserved.
- *
- */
-
 #pragma once
 
 #include <iomanip>
